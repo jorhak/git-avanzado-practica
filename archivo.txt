@@ -1,1 +1,7 @@
 Contenido inicial
+<<<<<<< HEAD
+=======
+Segunda linea
+Tercer linea
+Cuarta linea
+>>>>>>> 1fd915f (Tercer commit)
