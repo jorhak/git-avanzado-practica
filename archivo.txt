@@ -1,3 +1,9 @@
 Contenido inicial
 Segunda linea
 Tercer linea
+
+Cuarta linea
+Segunda linea
+rebase -i HEAD
+
+cherry-pick
