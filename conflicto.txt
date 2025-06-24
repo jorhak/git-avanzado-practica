@@ -1,1 +1,6 @@
+
 Cambio desde branch A
+
+Cambio desde branch B
+
+Merge de branch B, resolviendo el conflicto con el merge de branch A
